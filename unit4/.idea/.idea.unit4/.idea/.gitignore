@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.unit4.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\raoul\games\gamesMBOUTRECHT\unit4\.idea\.idea.unit4\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
